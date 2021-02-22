@@ -1,6 +1,6 @@
 # Improvised-Object-Detection-using-YOLO-V3
 
-References towards the porject.
+References towards the project.
 
 https://www.murtazahassan.com/courses/opencv-projects/lesson/complete-code-3/
 https://pjreddie.com/darknet/yolo/ 
