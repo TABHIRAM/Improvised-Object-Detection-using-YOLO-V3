@@ -5,6 +5,7 @@ References towards the project.
 https://www.murtazahassan.com/courses/opencv-projects/lesson/complete-code-3/
 https://pjreddie.com/darknet/yolo/ 
 https://cocodataset.org/#home
+
 https://appsilon.com/object-detection-yolo-algorithm/
 https://towardsdatascience.com/object-detection-using-yolov3-and-opencv-19ee0792a420
 https://towardsdatascience.com/review-yolov3-you-only-look-once-object-detection-eab75d7a1ba6
