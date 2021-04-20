@@ -1,5 +1,5 @@
 # Improvised-Object-Detection-using-YOLO-V3
-Steps to run program.
+Steps to run program on windows.
 
 **1. Download the requried files** :
 
