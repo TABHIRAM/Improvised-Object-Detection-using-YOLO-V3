@@ -23,6 +23,13 @@ If you face any errors just search the error on google or get answes on stackove
 
 
 **From a movie**
+![Screenshot (354)](https://user-images.githubusercontent.com/44461959/115351506-f4abc000-a1d3-11eb-8afb-8d8188ca0e52.png)
+![Screenshot (360)](https://user-images.githubusercontent.com/44461959/115351511-f70e1a00-a1d3-11eb-895d-79a428b0b949.png)
+![Screenshot (362)](https://user-images.githubusercontent.com/44461959/115351513-f7a6b080-a1d3-11eb-8990-7176ba142bf4.png)
+![Screenshot (365)](https://user-images.githubusercontent.com/44461959/115351530-fbd2ce00-a1d3-11eb-8d6a-73a65dd49fc1.png)
+![Screenshot (369)](https://user-images.githubusercontent.com/44461959/115351544-fecdbe80-a1d3-11eb-87b2-8531cdc65f07.png)
+![Screenshot (351)](https://user-images.githubusercontent.com/44461959/115351548-ff665500-a1d3-11eb-802d-f6cc76bb4a41.png)
+
 
 
 
