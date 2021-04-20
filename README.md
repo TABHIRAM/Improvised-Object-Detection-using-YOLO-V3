@@ -2,9 +2,12 @@
 
 References towards the project.
 
-https://www.murtazahassan.com/courses/opencv-projects/lesson/complete-code-3/
+https://www.irjet.net/archives/V8/i4/IRJET-V8I4220.pdf
+
 https://pjreddie.com/darknet/yolo/ 
 https://cocodataset.org/#home
+https://www.murtazahassan.com/courses/opencv-projects/lesson/complete-code-3/
+
 
 https://appsilon.com/object-detection-yolo-algorithm/
 https://towardsdatascience.com/object-detection-using-yolov3-and-opencv-19ee0792a420
