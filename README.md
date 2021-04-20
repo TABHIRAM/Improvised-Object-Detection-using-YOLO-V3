@@ -1,17 +1,17 @@
 # Improvised-Object-Detection-using-YOLO-V3
 Steps to run program.
-**1. Download the requried files**
+**1. Download the requried files** :
 
 The cfg and the weight files can be downloaded from the official yolo website(https://pjreddie.com/darknet/yolo/). 
 Then test different versions recommend are YOLOv3-320 is slow but accurate and YOLOv3-tiny fast and less accruate.
 ![Performance YOLO](https://user-images.githubusercontent.com/44461959/115347100-9f20e480-a1ce-11eb-9d0a-42122090aa9d.PNG)
 
-**2. Install Requried modules**
+**2. Install Requried modules** :
 Python 3.8.2 (version 3 & above)
 pip install opencv-contrib-python (version 4 & above)
 pip install numpy
 
-######3. Hello
+**3. Clone the git repo & open python.py file using any text editor like atom,sublime etc., then run the program finally close the output window by hitting [ESC] key.**
 
 
 
