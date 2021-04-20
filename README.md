@@ -4,6 +4,10 @@ References towards the project.
 
 https://www.irjet.net/archives/V8/i4/IRJET-V8I4220.pdf
 
+The cfg and the weight files can be downloaded from the official yolo website(https://pjreddie.com/darknet/yolo/). 
+Then test different versions recommend are YOLOv3-320 is slow but accurate and YOLOv3-tiny fast and less accruate.
+
+
 https://pjreddie.com/darknet/yolo/ 
 https://cocodataset.org/#home
 https://www.murtazahassan.com/courses/opencv-projects/lesson/complete-code-3/
