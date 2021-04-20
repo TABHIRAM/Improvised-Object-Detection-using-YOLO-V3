@@ -15,6 +15,8 @@ numpy : pip install numpy |
 
 **3. Clone the git repo & open python.py file using any text editor then run the program finally close the output window by hitting [ESC] key.**
 
+*In the python.py file change file path to your [/] respective path of 1.classesFile 2.modelConfiguration 3.modelWeights*
+
 If you face any errors just search the error on google or get answes on stackoverflow community.
 
 **Note: I have mentioned in python.py file via comments in the code.**
