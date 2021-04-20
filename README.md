@@ -19,11 +19,10 @@ If you face any errors just search the error on google or get answes on stackove
 
 **Note: I have mentioned in python.py file via comments in the code.**
 
-Sample Outputs:
-![cp_1](https://user-images.githubusercontent.com/44461959/115350049-38052f00-a1d2-11eb-908e-cc62168fda67.png)
-From a movie trailer
-![Screenshot (351)](https://user-images.githubusercontent.com/44461959/115350163-63881980-a1d2-11eb-9244-faabdbfa881b.png)
-![Screenshot (360)](https://user-images.githubusercontent.com/44461959/115350196-6e42ae80-a1d2-11eb-9439-509f7aa4929f.png)
+**Sample Outputs:**
+
+
+**From a movie**
 
 
 
