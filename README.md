@@ -4,6 +4,7 @@ Steps to run program.
 
 The cfg and the weight files can be downloaded from the official yolo website(https://pjreddie.com/darknet/yolo/). 
 Then test different versions recommend are YOLOv3-320 is slow but accurate and YOLOv3-tiny fast and less accruate.
+
 YOLOv3-320 : CFG & Weight files or YOLOv3-tiny : CFG & Weight files.
 ![Performance YOLO](https://user-images.githubusercontent.com/44461959/115347100-9f20e480-a1ce-11eb-9d0a-42122090aa9d.PNG)
 
@@ -17,6 +18,15 @@ numpy : pip install numpy |
 If you face any errors just search the error on google or get answes on stackoverflow community.
 
 **Note: I have mentioned in python.py file via comments in the code.**
+
+Sample Outputs:
+![cp_1](https://user-images.githubusercontent.com/44461959/115350049-38052f00-a1d2-11eb-908e-cc62168fda67.png)
+From a movie trailer
+![Screenshot (351)](https://user-images.githubusercontent.com/44461959/115350163-63881980-a1d2-11eb-9244-faabdbfa881b.png)
+![Screenshot (360)](https://user-images.githubusercontent.com/44461959/115350196-6e42ae80-a1d2-11eb-9439-509f7aa4929f.png)
+
+
+
 
 References towards the project.
 https://www.irjet.net/archives/V8/i4/IRJET-V8I4220.pdf
