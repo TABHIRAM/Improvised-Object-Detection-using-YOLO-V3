@@ -15,6 +15,7 @@ numpy : pip install numpy |
 **3. Clone the git repo & open python.py file using any text editor then run the program finally close the output window by hitting [ESC] key.**
 
 If you face any errors just search the error on google or get answes on stackoverflow community.
+
 **Note: I have mentioned in python.py file via comments in the code.**
 
 References towards the project.
