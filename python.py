@@ -29,7 +29,7 @@ nmsThreshold = 0.2  #0.2 Non-Max Suppression (Range: 0.1-1.0)
 #-->LOADING MODELS
 # LOAD MODEL
 # Coco Names
-classesFile = "C:\\Users\\Ramu\\Desktop\\Abhiram Project SCSVMV\\coco.names"
+classesFile = "C:\\Users\\user1\\Desktop\\Improvised-Object-Detection-using-YOLO-V3\\coco.names"
 classNames = [] # List
 with open(classesFile, 'rt') as f:
     classNames = f.read().rstrip('\n').split('\n')
@@ -51,12 +51,12 @@ print(' ')
 
 #--> Model Files
 #For Yolo 320      ||yolov3.weights: 236 MB (24,80,07,048 bytes)|| 
-modelConfiguration = "C:\\Users\\Ramu\\Desktop\\Abhiram Project SCSVMV\\yolov3.cfg"
-modelWeights = "C:\\Users\\Ramu\\Desktop\\Abhiram Project SCSVMV\\yolov3.weights"
+modelConfiguration = "C:\\Users\\user1\\Desktop\\Improvised-Object-Detection-using-YOLO-V3\\yolov3.cfg"
+modelWeights = "C:\\Users\\user1\\Desktop\\Improvised-Object-Detection-using-YOLO-V3\\yolov3.weights"
 '''
 For Yolo yolov3-tiny ||yolov3-tiny.weights: 33.7 MB (3,54,34,956 bytes)||
-modelConfiguration = "C:\\Users\\Ramu\\Desktop\\Abhiram Project SCSVMV\\yolov3-tiny.cfg"
-modelWeights = "C:\\Users\\Ramu\\Desktop\\Abhiram Project SCSVMV\\yolov3-tiny.weights"
+modelConfiguration = "C:\\Users\\user1\\Desktop\\Improvised-Object-Detection-using-YOLO-V3\\yolov3-tiny.cfg"
+modelWeights = "C:\\Users\\user1\\Desktop\\Improvised-Object-Detection-using-YOLO-V3\\yolov3-tiny.weights"
 
 '''
 net = cv.dnn.readNetFromDarknet(modelConfiguration, modelWeights)
