@@ -4,16 +4,18 @@ Steps to run program.
 
 The cfg and the weight files can be downloaded from the official yolo website(https://pjreddie.com/darknet/yolo/). 
 Then test different versions recommend are YOLOv3-320 is slow but accurate and YOLOv3-tiny fast and less accruate.
+YOLOv3-320 : CFG & Weight files or or YOLOv3-tiny : CFG & Weight files.
 ![Performance YOLO](https://user-images.githubusercontent.com/44461959/115347100-9f20e480-a1ce-11eb-9d0a-42122090aa9d.PNG)
 
 **2. Install Requried modules** :
 Python 3.8.2 (version 3 & above)
-pip install opencv-contrib-python (version 4 & above)
-pip install numpy
+opencv-contrib-python (version 4 & above) |pip install opencv-contrib-python 
+numpy |pip install numpy
 
-**3. Clone the git repo & open python.py file using any text editor like atom,sublime etc., then run the program finally close the output window by hitting [ESC] key.**
+**3. Clone the git repo & open python.py file using any text editor then run the program finally close the output window by hitting [ESC] key.**
 
-
+If you face any errors just search the error on google or get answes on stackoverflow community.
+Note: I have mentioned basic things in python.py file via comments in the code.
 
 References towards the project.
 https://www.irjet.net/archives/V8/i4/IRJET-V8I4220.pdf
